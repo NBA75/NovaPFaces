@@ -1,17 +1,12 @@
 [![Maven](https://img.shields.io/maven-central/v/org.primefaces/primefaces.svg)](https://repo.maven.apache.org/maven2/org/primefaces/primefaces/)
-[![Actions Status CI](https://github.com/primefaces/primefaces/workflows/CI/badge.svg)](https://github.com/primefaces/primefaces/actions/workflows/build.yml)
-[![Actions Status Integration Tests](https://github.com/primefaces/primefaces/workflows/IT/badge.svg)](https://github.com/primefaces/primefaces/actions/workflows/nightly.yml)
-[![Sonar](https://sonarcloud.io/api/project_badges/measure?project=org.primefaces%3Aprimefaces&metric=alert_status)](https://sonarcloud.io/dashboard?id=org.primefaces%3Aprimefaces)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord Chat](https://img.shields.io/discord/557940238991753223.svg?color=7289da&label=chat&logo=discord)](https://discord.gg/gzKFYnpmCY)
 [![Stackoverflow](https://img.shields.io/badge/StackOverflow-primefaces-chocolate.svg)](https://stackoverflow.com/questions/tagged/primefaces+jsf)
 [![Prime Discussions](https://img.shields.io/github/discussions-search?query=org%3Aprimefaces&logo=github&label=Prime%20Discussions&link=https%3A%2F%2Fgithub.com%2Forgs%2Fprimefaces%2Fdiscussions)](https://github.com/orgs/primefaces/discussions)
 
-[![PrimeFaces Hero](https://www.primefaces.org/wp-content/uploads/2021/10/PrimeFaces-GitHub-2021Q4.jpg "PrimeFaces Hero")](https://www.primefaces.org/showcase)
+  <!-- [![PrimeFaces Hero](https://www.primefaces.org/wp-content/uploads/2021/10/PrimeFaces-GitHub-2021Q4.jpg "PrimeFaces Hero")](https://www.primefaces.org/showcase) -->
 
 # PrimeFaces
 
-This is an overview page, please visit [PrimeFaces.org](https://www.primefaces.org) for more information.
+Visit [PrimeFaces.org](https://www.primefaces.org) for more information.
 
 [![PrimeFaces Logo](https://www.primefaces.org/wp-content/uploads/2016/10/prime_logo_new.png)](https://www.primefaces.org/showcase)
 
